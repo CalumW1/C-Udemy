@@ -1,0 +1,16 @@
+C:\Development\Udemy\C-Udemy\Section 7\CollectionsChallenge\CollectionsChallenge\bin\Debug\net5.0\CollectionsChallenge.exe
+C:\Development\Udemy\C-Udemy\Section 7\CollectionsChallenge\CollectionsChallenge\bin\Debug\net5.0\CollectionsChallenge.deps.json
+C:\Development\Udemy\C-Udemy\Section 7\CollectionsChallenge\CollectionsChallenge\bin\Debug\net5.0\CollectionsChallenge.runtimeconfig.json
+C:\Development\Udemy\C-Udemy\Section 7\CollectionsChallenge\CollectionsChallenge\bin\Debug\net5.0\CollectionsChallenge.runtimeconfig.dev.json
+C:\Development\Udemy\C-Udemy\Section 7\CollectionsChallenge\CollectionsChallenge\bin\Debug\net5.0\CollectionsChallenge.dll
+C:\Development\Udemy\C-Udemy\Section 7\CollectionsChallenge\CollectionsChallenge\bin\Debug\net5.0\ref\CollectionsChallenge.dll
+C:\Development\Udemy\C-Udemy\Section 7\CollectionsChallenge\CollectionsChallenge\bin\Debug\net5.0\CollectionsChallenge.pdb
+C:\Development\Udemy\C-Udemy\Section 7\CollectionsChallenge\CollectionsChallenge\obj\Debug\net5.0\CollectionsChallenge.csproj.AssemblyReference.cache
+C:\Development\Udemy\C-Udemy\Section 7\CollectionsChallenge\CollectionsChallenge\obj\Debug\net5.0\CollectionsChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Udemy\C-Udemy\Section 7\CollectionsChallenge\CollectionsChallenge\obj\Debug\net5.0\CollectionsChallenge.AssemblyInfoInputs.cache
+C:\Development\Udemy\C-Udemy\Section 7\CollectionsChallenge\CollectionsChallenge\obj\Debug\net5.0\CollectionsChallenge.AssemblyInfo.cs
+C:\Development\Udemy\C-Udemy\Section 7\CollectionsChallenge\CollectionsChallenge\obj\Debug\net5.0\CollectionsChallenge.csproj.CoreCompileInputs.cache
+C:\Development\Udemy\C-Udemy\Section 7\CollectionsChallenge\CollectionsChallenge\obj\Debug\net5.0\CollectionsChallenge.dll
+C:\Development\Udemy\C-Udemy\Section 7\CollectionsChallenge\CollectionsChallenge\obj\Debug\net5.0\ref\CollectionsChallenge.dll
+C:\Development\Udemy\C-Udemy\Section 7\CollectionsChallenge\CollectionsChallenge\obj\Debug\net5.0\CollectionsChallenge.pdb
+C:\Development\Udemy\C-Udemy\Section 7\CollectionsChallenge\CollectionsChallenge\obj\Debug\net5.0\CollectionsChallenge.genruntimeconfig.cache

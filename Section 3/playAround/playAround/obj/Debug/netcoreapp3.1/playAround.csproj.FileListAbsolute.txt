@@ -1,0 +1,14 @@
+C:\Development\Udemy\C-Udemy\Section 3\playAround\playAround\bin\Debug\netcoreapp3.1\playAround.exe
+C:\Development\Udemy\C-Udemy\Section 3\playAround\playAround\bin\Debug\netcoreapp3.1\playAround.deps.json
+C:\Development\Udemy\C-Udemy\Section 3\playAround\playAround\bin\Debug\netcoreapp3.1\playAround.runtimeconfig.json
+C:\Development\Udemy\C-Udemy\Section 3\playAround\playAround\bin\Debug\netcoreapp3.1\playAround.runtimeconfig.dev.json
+C:\Development\Udemy\C-Udemy\Section 3\playAround\playAround\bin\Debug\netcoreapp3.1\playAround.dll
+C:\Development\Udemy\C-Udemy\Section 3\playAround\playAround\bin\Debug\netcoreapp3.1\playAround.pdb
+C:\Development\Udemy\C-Udemy\Section 3\playAround\playAround\obj\Debug\netcoreapp3.1\playAround.csproj.AssemblyReference.cache
+C:\Development\Udemy\C-Udemy\Section 3\playAround\playAround\obj\Debug\netcoreapp3.1\playAround.AssemblyInfoInputs.cache
+C:\Development\Udemy\C-Udemy\Section 3\playAround\playAround\obj\Debug\netcoreapp3.1\playAround.AssemblyInfo.cs
+C:\Development\Udemy\C-Udemy\Section 3\playAround\playAround\obj\Debug\netcoreapp3.1\playAround.csproj.CoreCompileInputs.cache
+C:\Development\Udemy\C-Udemy\Section 3\playAround\playAround\obj\Debug\netcoreapp3.1\playAround.dll
+C:\Development\Udemy\C-Udemy\Section 3\playAround\playAround\obj\Debug\netcoreapp3.1\playAround.pdb
+C:\Development\Udemy\C-Udemy\Section 3\playAround\playAround\obj\Debug\netcoreapp3.1\playAround.genruntimeconfig.cache
+C:\Development\Udemy\C-Udemy\Section 3\playAround\playAround\obj\Debug\netcoreapp3.1\playAround.GeneratedMSBuildEditorConfig.editorconfig
