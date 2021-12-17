@@ -1,0 +1,16 @@
+C:\Development\Udemy\C-Udemy\Section 7\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.exe
+C:\Development\Udemy\C-Udemy\Section 7\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.deps.json
+C:\Development\Udemy\C-Udemy\Section 7\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.runtimeconfig.json
+C:\Development\Udemy\C-Udemy\Section 7\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.runtimeconfig.dev.json
+C:\Development\Udemy\C-Udemy\Section 7\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.dll
+C:\Development\Udemy\C-Udemy\Section 7\TicTacToe\TicTacToe\bin\Debug\net5.0\ref\TicTacToe.dll
+C:\Development\Udemy\C-Udemy\Section 7\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.pdb
+C:\Development\Udemy\C-Udemy\Section 7\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.csproj.AssemblyReference.cache
+C:\Development\Udemy\C-Udemy\Section 7\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Udemy\C-Udemy\Section 7\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.AssemblyInfoInputs.cache
+C:\Development\Udemy\C-Udemy\Section 7\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.AssemblyInfo.cs
+C:\Development\Udemy\C-Udemy\Section 7\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Development\Udemy\C-Udemy\Section 7\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.dll
+C:\Development\Udemy\C-Udemy\Section 7\TicTacToe\TicTacToe\obj\Debug\net5.0\ref\TicTacToe.dll
+C:\Development\Udemy\C-Udemy\Section 7\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.pdb
+C:\Development\Udemy\C-Udemy\Section 7\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.genruntimeconfig.cache
