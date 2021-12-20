@@ -91,37 +91,52 @@ namespace TicTacToe
             } 
             else if(Location == "4" || Location == "5" || Location == "6")
             {
-                if(board[1, int.Parse(Location) - 4] == "x" || board[1, int.Parse(Location)] == "O")
+                if(board[1, int.Parse(Location) - 4] == "x" || board[1, int.Parse(Location) - 4] == "O")
                 {
                     if(userInput == "x")
                     {
-                        Console.WriteLine("this ");
+                        Console.WriteLine("this location is taken");
+                        playersATurn = true;
                     }
                     else
                     {
-
+                        Console.WriteLine("This location is taken");
+                        playersATurn = false; 
                     }
                 }
-                board[1, int.Parse(Location) - 4] = userInput;
-                Console.WriteLine();
-                Console.WriteLine();
-                createField();
-                Console.WriteLine();
+                else
+                {
+                    board[1, int.Parse(Location) - 4] = userInput;
+                    Console.WriteLine();
+                    Console.WriteLine();
+                    createField();
+                    Console.WriteLine();
+                }
             }
             else if (Location == "7" || Location == "8" || Location == "9")
             {
-                board[2, int.Parse(Location) - 7] = userInput;
-                Console.WriteLine();
-                Console.WriteLine();
-                createField();
-                Console.WriteLine();
+                if(board[2, int.Parse(Location) - 7] == "x" || board[2, int.Parse(Location) - 7] == "O")
+                {
+                    if(userInput == "x")
+                    {
+                        Console.WriteLine("This location is taken");
+                        playersATurn = true;
+                    }
+                    else
+                    {
+                        Console.WriteLine("This location is taken");
+                        playersATurn = false;
+                    }
+                }
+                else
+                {
+                    board[2, int.Parse(Location) - 7] = userInput;
+                    Console.WriteLine();
+                    Console.WriteLine();
+                    createField();
+                    Console.WriteLine();
+                }
             }
         }
-
-        
-
-
-
-
     }
 }
