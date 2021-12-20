@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "osr/y0quHqfHI6I2JKepkPhVoFD2hcNrCCQjiEAdJLwCKdVdHql5ZwvY86lmlINFXdTod7kyIVTe8TTdFZO4iw==",
+  "dgSpecHash": "XCwEiyjMQ+xyCJOIpq6Ymt0ySGLb4Z4dd1dAdetnLFtZoYI56hAMJw90q41qROzhq3pCtf+TtorbC6JeMgx9ZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\calum\\Documents\\GitProjects\\C-Udemy\\Section 7\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\calum\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
-    "C:\\Users\\calum\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\calum\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\calum\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Development\\Udemy\\C-Udemy\\Section 7\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
