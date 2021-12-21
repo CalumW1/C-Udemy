@@ -20,7 +20,7 @@ namespace playAround
             box.Displayinfo();
             box.SetLength(2);
             box.GetLength();
-            Console.WriteLine(box.FrontSurface); */ 
+            Console.WriteLine(box.FrontSurface); */
 
 
             /*Member newMember = new Member();
@@ -45,18 +45,25 @@ namespace playAround
 
             Console.WriteLine("=========================");*/
 
-            int[] numbers = { 12, 3123, 234, 2 };
+            // jagged arrays; 
 
-            for(int i = 0; i < numbers.Length; i++)
+            string[][] jaggedArray = new string[3][];
+
+            jaggedArray[0] = new string[] { "t1", "t2", "t3" };
+            jaggedArray[1] = new string[] { "t1", "t2", "t3", "t4" };
+            jaggedArray[2] = new string[] { "t1", "t2", "t3" };
+
+            // Console.WriteLine("{0}", jaggedArray[2][2]);
+
+
+            // print out jagged array;
+            for(int i = 0; i < jaggedArray.Length; i++)
             {
-                Console.WriteLine("{0}", numbers[i]);
-            }
-
-            string[] friends = { "test1", "test2", "test3", "test4" };
-
-            for(int i = 0; i < friends.Length; i++)
-            {
-                Console.WriteLine("Hello {0}", friends[i]);
+                Console.WriteLine("Row {0}", i);
+                for (int j = 0; j < jaggedArray[i].Length; j++)
+                {
+                    Console.WriteLine("{0}", jaggedArray[i][j]);
+                }
             }
         }
     }

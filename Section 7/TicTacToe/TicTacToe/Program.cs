@@ -5,6 +5,7 @@ namespace TicTacToe
     class Program
     {
         static bool playersATurn = true;
+        static bool game = false;
 
 
         // Create 2d array for the game board.
@@ -37,7 +38,7 @@ namespace TicTacToe
         {
             int counter = 0;
 
-            while (counter < 9)
+            while (counter < 9 && game == false)
             {
                 if(playersATurn == true)
                 {
@@ -85,6 +86,7 @@ namespace TicTacToe
                     Console.WriteLine();
                     Console.WriteLine();
                     createField();
+                    CheckWinner();
                     Console.WriteLine();
                 }
                 
@@ -110,6 +112,7 @@ namespace TicTacToe
                     Console.WriteLine();
                     Console.WriteLine();
                     createField();
+                    CheckWinner();
                     Console.WriteLine();
                 }
             }
@@ -134,7 +137,122 @@ namespace TicTacToe
                     Console.WriteLine();
                     Console.WriteLine();
                     createField();
+                    CheckWinner();
                     Console.WriteLine();
+                }
+            }
+        }
+
+        public static void CheckWinner()
+        {
+            // check horizontal
+            // check first line; 
+            if (board[0, 0] == board[0, 1] && board[0, 0] == board[0, 2])
+            {
+                if (board[0, 0] == "x")
+                {
+                    // return player 1 has won. 
+                    Console.WriteLine("Player 1 has won! ");
+                    game = true;
+                }
+                else
+                {
+                    //return player 2 has won
+                    Console.WriteLine("Player 2 has won!");
+                    game = true;
+                }
+
+            }
+            else if (board[1, 0] == board[1, 1] && board[1, 0] == board[1, 2])
+            {
+                if (board[1, 0] == "x")
+                {
+                    Console.WriteLine("Player 1 has won!");
+                    game = true;
+                }
+                else
+                {
+                    Console.WriteLine("Player 2 has won!");
+                    game = true;
+                }
+            }
+            else if (board[2, 0] == board[2, 1] && board[2, 0] == board[2, 2])
+            {
+                if (board[2, 0] == "x")
+                {
+                    Console.WriteLine("Player 1 has won!");
+                    game = true;
+                }
+                else
+                {
+                    Console.WriteLine("Player 2 has won!");
+                    game = true;
+                }
+            }
+            // check vertical 
+            else if (board[0, 0] == board[1, 0] && board[0, 0] == board[2, 0])
+            {
+                if (board[0, 0] == "x")
+                {
+                    Console.WriteLine("Player 1 has won!");
+                    game = true;
+                }
+                else
+                {
+                    Console.WriteLine("Player 2 has won!");
+                    game = true;
+                }
+            }
+            else if (board[0, 1] == board[1, 1] && board[0, 1] == board[2, 1])
+            {
+                if (board[0, 1] == "x")
+                {
+                    Console.WriteLine("Player 1 has won!");
+                    game = true;
+                }
+                else
+                {
+                    Console.WriteLine("Player 2 has won!");
+                    game = true;
+                }
+            }
+            else if (board[0, 2] == board[1, 2] && board[0, 2] == board[2, 2])
+            {
+                if(board[0, 2] == "x")
+                {
+                    Console.WriteLine("Player 1 has won!");
+                    game = true;
+                }
+                else
+                {
+                    Console.WriteLine("Player 2 has won!");
+                }
+            }
+            // check diagonal 
+            else if(board[0, 0] == board[1, 1] && board[0, 0] == board[2, 2])
+            {
+                if (board[0, 0] == "x")
+                {
+                    Console.WriteLine("Player 1 has won! ");
+                    game = true;
+                }
+                else
+                {
+                    Console.WriteLine("Player 2 has won!");
+                    game = true;
+                }
+            }
+            else if(board[0, 2] == board[1, 1] && board[0, 2] == board[2, 0])
+            {
+                if (board[0, 2] == "x")
+                {
+                    Console.WriteLine("Player 1 has won!");
+                    game = true;
+                }
+                else
+                {
+                    Console.WriteLine("Player 2 has won!");
+                    game = true;
                 }
             }
         }
