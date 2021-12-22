@@ -1,0 +1,16 @@
+C:\Development\Udemy\C-Udemy\Section 7\Queues\Queues\bin\Debug\net5.0\Queues.exe
+C:\Development\Udemy\C-Udemy\Section 7\Queues\Queues\bin\Debug\net5.0\Queues.deps.json
+C:\Development\Udemy\C-Udemy\Section 7\Queues\Queues\bin\Debug\net5.0\Queues.runtimeconfig.json
+C:\Development\Udemy\C-Udemy\Section 7\Queues\Queues\bin\Debug\net5.0\Queues.runtimeconfig.dev.json
+C:\Development\Udemy\C-Udemy\Section 7\Queues\Queues\bin\Debug\net5.0\Queues.dll
+C:\Development\Udemy\C-Udemy\Section 7\Queues\Queues\bin\Debug\net5.0\ref\Queues.dll
+C:\Development\Udemy\C-Udemy\Section 7\Queues\Queues\bin\Debug\net5.0\Queues.pdb
+C:\Development\Udemy\C-Udemy\Section 7\Queues\Queues\obj\Debug\net5.0\Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Udemy\C-Udemy\Section 7\Queues\Queues\obj\Debug\net5.0\Queues.AssemblyInfoInputs.cache
+C:\Development\Udemy\C-Udemy\Section 7\Queues\Queues\obj\Debug\net5.0\Queues.AssemblyInfo.cs
+C:\Development\Udemy\C-Udemy\Section 7\Queues\Queues\obj\Debug\net5.0\Queues.csproj.CoreCompileInputs.cache
+C:\Development\Udemy\C-Udemy\Section 7\Queues\Queues\obj\Debug\net5.0\Queues.dll
+C:\Development\Udemy\C-Udemy\Section 7\Queues\Queues\obj\Debug\net5.0\ref\Queues.dll
+C:\Development\Udemy\C-Udemy\Section 7\Queues\Queues\obj\Debug\net5.0\Queues.pdb
+C:\Development\Udemy\C-Udemy\Section 7\Queues\Queues\obj\Debug\net5.0\Queues.genruntimeconfig.cache
+C:\Development\Udemy\C-Udemy\Section 7\Queues\Queues\obj\Debug\net5.0\Queues.csproj.AssemblyReference.cache

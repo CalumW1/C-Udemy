@@ -1,0 +1,15 @@
+C:\Development\Udemy\C-Udemy\Section 7\Stacks\Stacks\bin\Debug\net5.0\Stacks.exe
+C:\Development\Udemy\C-Udemy\Section 7\Stacks\Stacks\bin\Debug\net5.0\Stacks.deps.json
+C:\Development\Udemy\C-Udemy\Section 7\Stacks\Stacks\bin\Debug\net5.0\Stacks.runtimeconfig.json
+C:\Development\Udemy\C-Udemy\Section 7\Stacks\Stacks\bin\Debug\net5.0\Stacks.runtimeconfig.dev.json
+C:\Development\Udemy\C-Udemy\Section 7\Stacks\Stacks\bin\Debug\net5.0\Stacks.dll
+C:\Development\Udemy\C-Udemy\Section 7\Stacks\Stacks\bin\Debug\net5.0\ref\Stacks.dll
+C:\Development\Udemy\C-Udemy\Section 7\Stacks\Stacks\bin\Debug\net5.0\Stacks.pdb
+C:\Development\Udemy\C-Udemy\Section 7\Stacks\Stacks\obj\Debug\net5.0\Stacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Udemy\C-Udemy\Section 7\Stacks\Stacks\obj\Debug\net5.0\Stacks.AssemblyInfoInputs.cache
+C:\Development\Udemy\C-Udemy\Section 7\Stacks\Stacks\obj\Debug\net5.0\Stacks.AssemblyInfo.cs
+C:\Development\Udemy\C-Udemy\Section 7\Stacks\Stacks\obj\Debug\net5.0\Stacks.csproj.CoreCompileInputs.cache
+C:\Development\Udemy\C-Udemy\Section 7\Stacks\Stacks\obj\Debug\net5.0\Stacks.dll
+C:\Development\Udemy\C-Udemy\Section 7\Stacks\Stacks\obj\Debug\net5.0\ref\Stacks.dll
+C:\Development\Udemy\C-Udemy\Section 7\Stacks\Stacks\obj\Debug\net5.0\Stacks.pdb
+C:\Development\Udemy\C-Udemy\Section 7\Stacks\Stacks\obj\Debug\net5.0\Stacks.genruntimeconfig.cache
