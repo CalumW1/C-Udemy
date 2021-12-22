@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace playAround
 {
@@ -65,6 +66,71 @@ namespace playAround
                     Console.WriteLine("{0}", jaggedArray[i][j]);
                 }
             }
+
+            int minValue = MinimumValue(2, 12, 43, 23, 67, 134, 1234);
+            Console.WriteLine("Minimum Value: {0}", minValue);
+
+            int maxValue = MaximumValue(2, 12, 43, 23, 67, 134, 1234);
+            Console.WriteLine("Maximum value: {0}", maxValue);
+
+
+            // array lists
+            ArrayList newArrayList = new ArrayList();
+
+            newArrayList.Add(24);
+            newArrayList.Add("Test");
+            newArrayList.Add(123);
+
+            // count the number of elements in the arrayList;
+            Console.WriteLine("the number of elements in this array {0}", newArrayList.Count);
+
+
+            // Remove from array list; 
+            newArrayList.Remove("Test");
+
+            // Count again;
+            Console.WriteLine("the number of elements in this array {0}", newArrayList.Count);
+
+
+            foreach(var element in newArrayList)
+            {
+                Console.WriteLine("output from array list {0}", element);
+            }
+
         }
+
+        // params   
+        public static int MinimumValue(params int[] numbers)
+        {
+            int min = int.MaxValue;
+            
+            foreach(int number in numbers)
+            {
+                if(number < min)
+                {
+                    min = number;
+                }
+
+            }
+            return min;
+        }
+
+        public static int MaximumValue(params int[] numbers)
+        {
+            int max = int.MinValue;
+
+            foreach(int number in numbers)
+            {
+                if(number > max)
+                {
+                    max = number;
+                }
+            }
+            
+            return max;
+        }
+
+
+        
     }
 }
