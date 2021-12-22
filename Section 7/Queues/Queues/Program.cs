@@ -40,7 +40,7 @@ namespace Queues
             {
                 ordersQueue.Enqueue(orders);
             }
-
+           
             while (ordersQueue.Count > 0)
             {
                 Order currentOrder = ordersQueue.Dequeue();
@@ -48,7 +48,7 @@ namespace Queues
             }
         }
 
-
+        
         static Order[] RevievedOrdersFromBranch1()
         {
             Order[] orders = new Order[] 
