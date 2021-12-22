@@ -1,0 +1,16 @@
+C:\Users\Calum.Wilson\source\repos\ListChallenge\ListChallenge\bin\Debug\net5.0\ListChallenge.exe
+C:\Users\Calum.Wilson\source\repos\ListChallenge\ListChallenge\bin\Debug\net5.0\ListChallenge.deps.json
+C:\Users\Calum.Wilson\source\repos\ListChallenge\ListChallenge\bin\Debug\net5.0\ListChallenge.runtimeconfig.json
+C:\Users\Calum.Wilson\source\repos\ListChallenge\ListChallenge\bin\Debug\net5.0\ListChallenge.runtimeconfig.dev.json
+C:\Users\Calum.Wilson\source\repos\ListChallenge\ListChallenge\bin\Debug\net5.0\ListChallenge.dll
+C:\Users\Calum.Wilson\source\repos\ListChallenge\ListChallenge\bin\Debug\net5.0\ref\ListChallenge.dll
+C:\Users\Calum.Wilson\source\repos\ListChallenge\ListChallenge\bin\Debug\net5.0\ListChallenge.pdb
+C:\Users\Calum.Wilson\source\repos\ListChallenge\ListChallenge\obj\Debug\net5.0\ListChallenge.csproj.AssemblyReference.cache
+C:\Users\Calum.Wilson\source\repos\ListChallenge\ListChallenge\obj\Debug\net5.0\ListChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calum.Wilson\source\repos\ListChallenge\ListChallenge\obj\Debug\net5.0\ListChallenge.AssemblyInfoInputs.cache
+C:\Users\Calum.Wilson\source\repos\ListChallenge\ListChallenge\obj\Debug\net5.0\ListChallenge.AssemblyInfo.cs
+C:\Users\Calum.Wilson\source\repos\ListChallenge\ListChallenge\obj\Debug\net5.0\ListChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Calum.Wilson\source\repos\ListChallenge\ListChallenge\obj\Debug\net5.0\ListChallenge.dll
+C:\Users\Calum.Wilson\source\repos\ListChallenge\ListChallenge\obj\Debug\net5.0\ref\ListChallenge.dll
+C:\Users\Calum.Wilson\source\repos\ListChallenge\ListChallenge\obj\Debug\net5.0\ListChallenge.pdb
+C:\Users\Calum.Wilson\source\repos\ListChallenge\ListChallenge\obj\Debug\net5.0\ListChallenge.genruntimeconfig.cache
