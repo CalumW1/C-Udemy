@@ -1,0 +1,16 @@
+C:\Development\Udemy\C-Udemy\Section 7\Hashtables\Hashtables\bin\Debug\net5.0\Hashtables.exe
+C:\Development\Udemy\C-Udemy\Section 7\Hashtables\Hashtables\bin\Debug\net5.0\Hashtables.deps.json
+C:\Development\Udemy\C-Udemy\Section 7\Hashtables\Hashtables\bin\Debug\net5.0\Hashtables.runtimeconfig.json
+C:\Development\Udemy\C-Udemy\Section 7\Hashtables\Hashtables\bin\Debug\net5.0\Hashtables.runtimeconfig.dev.json
+C:\Development\Udemy\C-Udemy\Section 7\Hashtables\Hashtables\bin\Debug\net5.0\Hashtables.dll
+C:\Development\Udemy\C-Udemy\Section 7\Hashtables\Hashtables\bin\Debug\net5.0\ref\Hashtables.dll
+C:\Development\Udemy\C-Udemy\Section 7\Hashtables\Hashtables\bin\Debug\net5.0\Hashtables.pdb
+C:\Development\Udemy\C-Udemy\Section 7\Hashtables\Hashtables\obj\Debug\net5.0\Hashtables.csproj.AssemblyReference.cache
+C:\Development\Udemy\C-Udemy\Section 7\Hashtables\Hashtables\obj\Debug\net5.0\Hashtables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Udemy\C-Udemy\Section 7\Hashtables\Hashtables\obj\Debug\net5.0\Hashtables.AssemblyInfoInputs.cache
+C:\Development\Udemy\C-Udemy\Section 7\Hashtables\Hashtables\obj\Debug\net5.0\Hashtables.AssemblyInfo.cs
+C:\Development\Udemy\C-Udemy\Section 7\Hashtables\Hashtables\obj\Debug\net5.0\Hashtables.csproj.CoreCompileInputs.cache
+C:\Development\Udemy\C-Udemy\Section 7\Hashtables\Hashtables\obj\Debug\net5.0\Hashtables.dll
+C:\Development\Udemy\C-Udemy\Section 7\Hashtables\Hashtables\obj\Debug\net5.0\ref\Hashtables.dll
+C:\Development\Udemy\C-Udemy\Section 7\Hashtables\Hashtables\obj\Debug\net5.0\Hashtables.pdb
+C:\Development\Udemy\C-Udemy\Section 7\Hashtables\Hashtables\obj\Debug\net5.0\Hashtables.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Development\Udemy\C-Udemy\Section 7\Dictonaries\Dictonaries\bin\Debug\net5.0\Dictonaries.exe
+C:\Development\Udemy\C-Udemy\Section 7\Dictonaries\Dictonaries\bin\Debug\net5.0\Dictonaries.deps.json
+C:\Development\Udemy\C-Udemy\Section 7\Dictonaries\Dictonaries\bin\Debug\net5.0\Dictonaries.runtimeconfig.json
+C:\Development\Udemy\C-Udemy\Section 7\Dictonaries\Dictonaries\bin\Debug\net5.0\Dictonaries.runtimeconfig.dev.json
+C:\Development\Udemy\C-Udemy\Section 7\Dictonaries\Dictonaries\bin\Debug\net5.0\Dictonaries.dll
+C:\Development\Udemy\C-Udemy\Section 7\Dictonaries\Dictonaries\bin\Debug\net5.0\ref\Dictonaries.dll
+C:\Development\Udemy\C-Udemy\Section 7\Dictonaries\Dictonaries\bin\Debug\net5.0\Dictonaries.pdb
+C:\Development\Udemy\C-Udemy\Section 7\Dictonaries\Dictonaries\obj\Debug\net5.0\Dictonaries.csproj.AssemblyReference.cache
+C:\Development\Udemy\C-Udemy\Section 7\Dictonaries\Dictonaries\obj\Debug\net5.0\Dictonaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Udemy\C-Udemy\Section 7\Dictonaries\Dictonaries\obj\Debug\net5.0\Dictonaries.AssemblyInfoInputs.cache
+C:\Development\Udemy\C-Udemy\Section 7\Dictonaries\Dictonaries\obj\Debug\net5.0\Dictonaries.AssemblyInfo.cs
+C:\Development\Udemy\C-Udemy\Section 7\Dictonaries\Dictonaries\obj\Debug\net5.0\Dictonaries.csproj.CoreCompileInputs.cache
+C:\Development\Udemy\C-Udemy\Section 7\Dictonaries\Dictonaries\obj\Debug\net5.0\Dictonaries.dll
+C:\Development\Udemy\C-Udemy\Section 7\Dictonaries\Dictonaries\obj\Debug\net5.0\ref\Dictonaries.dll
+C:\Development\Udemy\C-Udemy\Section 7\Dictonaries\Dictonaries\obj\Debug\net5.0\Dictonaries.pdb
+C:\Development\Udemy\C-Udemy\Section 7\Dictonaries\Dictonaries\obj\Debug\net5.0\Dictonaries.genruntimeconfig.cache
