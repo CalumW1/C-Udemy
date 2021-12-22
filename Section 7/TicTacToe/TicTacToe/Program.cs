@@ -5,7 +5,7 @@ namespace TicTacToe
     class Program
     {
         static bool playersATurn = true;
-        static bool game = false;
+        static bool gameOver = false;
 
 
         // Create 2d array for the game board.
@@ -38,10 +38,11 @@ namespace TicTacToe
         {
             int counter = 0;
 
-            while (counter < 9 && game == false)
+            while (counter < 9 && gameOver == false)
             {
                 if(playersATurn == true)
                 {
+                    // if it is player 1's turn insert "x" into their chosen field 
                     Console.WriteLine("Player 1: Choose your field: ");
                     string input = Console.ReadLine();
                     playersATurn = false;
@@ -50,6 +51,7 @@ namespace TicTacToe
                 }
                 else
                 {
+                    // if it player 2's turn insert "O" into their chosen field;
                     Console.WriteLine("Player 2: Choose your field: ");
                     string input = Console.ReadLine();
                     playersATurn = true;
@@ -153,13 +155,13 @@ namespace TicTacToe
                 {
                     // return player 1 has won. 
                     Console.WriteLine("Player 1 has won! ");
-                    game = true;
+                    gameOver = true;
                 }
                 else
                 {
                     //return player 2 has won
                     Console.WriteLine("Player 2 has won!");
-                    game = true;
+                    gameOver = true;
                 }
 
             }
@@ -168,12 +170,12 @@ namespace TicTacToe
                 if (board[1, 0] == "x")
                 {
                     Console.WriteLine("Player 1 has won!");
-                    game = true;
+                    gameOver = true;
                 }
                 else
                 {
                     Console.WriteLine("Player 2 has won!");
-                    game = true;
+                    gameOver = true;
                 }
             }
             else if (board[2, 0] == board[2, 1] && board[2, 0] == board[2, 2])
@@ -181,12 +183,12 @@ namespace TicTacToe
                 if (board[2, 0] == "x")
                 {
                     Console.WriteLine("Player 1 has won!");
-                    game = true;
+                    gameOver = true;
                 }
                 else
                 {
                     Console.WriteLine("Player 2 has won!");
-                    game = true;
+                    gameOver = true;
                 }
             }
             // check vertical 
@@ -195,12 +197,12 @@ namespace TicTacToe
                 if (board[0, 0] == "x")
                 {
                     Console.WriteLine("Player 1 has won!");
-                    game = true;
+                    gameOver = true;
                 }
                 else
                 {
                     Console.WriteLine("Player 2 has won!");
-                    game = true;
+                    gameOver = true;
                 }
             }
             else if (board[0, 1] == board[1, 1] && board[0, 1] == board[2, 1])
@@ -208,12 +210,12 @@ namespace TicTacToe
                 if (board[0, 1] == "x")
                 {
                     Console.WriteLine("Player 1 has won!");
-                    game = true;
+                    gameOver = true;
                 }
                 else
                 {
                     Console.WriteLine("Player 2 has won!");
-                    game = true;
+                    gameOver = true;
                 }
             }
             else if (board[0, 2] == board[1, 2] && board[0, 2] == board[2, 2])
@@ -221,7 +223,7 @@ namespace TicTacToe
                 if(board[0, 2] == "x")
                 {
                     Console.WriteLine("Player 1 has won!");
-                    game = true;
+                    gameOver = true;
                 }
                 else
                 {
@@ -234,12 +236,12 @@ namespace TicTacToe
                 if (board[0, 0] == "x")
                 {
                     Console.WriteLine("Player 1 has won! ");
-                    game = true;
+                    gameOver = true;
                 }
                 else
                 {
                     Console.WriteLine("Player 2 has won!");
-                    game = true;
+                    gameOver = true;
                 }
             }
             else if(board[0, 2] == board[1, 1] && board[0, 2] == board[2, 0])
@@ -247,12 +249,12 @@ namespace TicTacToe
                 if (board[0, 2] == "x")
                 {
                     Console.WriteLine("Player 1 has won!");
-                    game = true;
+                    gameOver = true;
                 }
                 else
                 {
                     Console.WriteLine("Player 2 has won!");
-                    game = true;
+                    gameOver = true;
                 }
             }
         }
