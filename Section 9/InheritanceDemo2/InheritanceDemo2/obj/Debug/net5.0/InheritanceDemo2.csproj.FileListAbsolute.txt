@@ -1,0 +1,16 @@
+C:\Development\Udemy\C-Udemy\Section 9\InheritanceDemo2\InheritanceDemo2\bin\Debug\net5.0\InheritanceDemo2.exe
+C:\Development\Udemy\C-Udemy\Section 9\InheritanceDemo2\InheritanceDemo2\bin\Debug\net5.0\InheritanceDemo2.deps.json
+C:\Development\Udemy\C-Udemy\Section 9\InheritanceDemo2\InheritanceDemo2\bin\Debug\net5.0\InheritanceDemo2.runtimeconfig.json
+C:\Development\Udemy\C-Udemy\Section 9\InheritanceDemo2\InheritanceDemo2\bin\Debug\net5.0\InheritanceDemo2.runtimeconfig.dev.json
+C:\Development\Udemy\C-Udemy\Section 9\InheritanceDemo2\InheritanceDemo2\bin\Debug\net5.0\InheritanceDemo2.dll
+C:\Development\Udemy\C-Udemy\Section 9\InheritanceDemo2\InheritanceDemo2\bin\Debug\net5.0\ref\InheritanceDemo2.dll
+C:\Development\Udemy\C-Udemy\Section 9\InheritanceDemo2\InheritanceDemo2\bin\Debug\net5.0\InheritanceDemo2.pdb
+C:\Development\Udemy\C-Udemy\Section 9\InheritanceDemo2\InheritanceDemo2\obj\Debug\net5.0\InheritanceDemo2.csproj.AssemblyReference.cache
+C:\Development\Udemy\C-Udemy\Section 9\InheritanceDemo2\InheritanceDemo2\obj\Debug\net5.0\InheritanceDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Udemy\C-Udemy\Section 9\InheritanceDemo2\InheritanceDemo2\obj\Debug\net5.0\InheritanceDemo2.AssemblyInfoInputs.cache
+C:\Development\Udemy\C-Udemy\Section 9\InheritanceDemo2\InheritanceDemo2\obj\Debug\net5.0\InheritanceDemo2.AssemblyInfo.cs
+C:\Development\Udemy\C-Udemy\Section 9\InheritanceDemo2\InheritanceDemo2\obj\Debug\net5.0\InheritanceDemo2.csproj.CoreCompileInputs.cache
+C:\Development\Udemy\C-Udemy\Section 9\InheritanceDemo2\InheritanceDemo2\obj\Debug\net5.0\InheritanceDemo2.dll
+C:\Development\Udemy\C-Udemy\Section 9\InheritanceDemo2\InheritanceDemo2\obj\Debug\net5.0\ref\InheritanceDemo2.dll
+C:\Development\Udemy\C-Udemy\Section 9\InheritanceDemo2\InheritanceDemo2\obj\Debug\net5.0\InheritanceDemo2.pdb
+C:\Development\Udemy\C-Udemy\Section 9\InheritanceDemo2\InheritanceDemo2\obj\Debug\net5.0\InheritanceDemo2.genruntimeconfig.cache

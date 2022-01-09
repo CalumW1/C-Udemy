@@ -1,0 +1,16 @@
+C:\Development\Udemy\C-Udemy\Section 9\IEnumerable\IEnumerable\bin\Debug\net5.0\IEnumerable.exe
+C:\Development\Udemy\C-Udemy\Section 9\IEnumerable\IEnumerable\bin\Debug\net5.0\IEnumerable.deps.json
+C:\Development\Udemy\C-Udemy\Section 9\IEnumerable\IEnumerable\bin\Debug\net5.0\IEnumerable.runtimeconfig.json
+C:\Development\Udemy\C-Udemy\Section 9\IEnumerable\IEnumerable\bin\Debug\net5.0\IEnumerable.runtimeconfig.dev.json
+C:\Development\Udemy\C-Udemy\Section 9\IEnumerable\IEnumerable\bin\Debug\net5.0\IEnumerable.dll
+C:\Development\Udemy\C-Udemy\Section 9\IEnumerable\IEnumerable\bin\Debug\net5.0\ref\IEnumerable.dll
+C:\Development\Udemy\C-Udemy\Section 9\IEnumerable\IEnumerable\bin\Debug\net5.0\IEnumerable.pdb
+C:\Development\Udemy\C-Udemy\Section 9\IEnumerable\IEnumerable\obj\Debug\net5.0\IEnumerable.csproj.AssemblyReference.cache
+C:\Development\Udemy\C-Udemy\Section 9\IEnumerable\IEnumerable\obj\Debug\net5.0\IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Udemy\C-Udemy\Section 9\IEnumerable\IEnumerable\obj\Debug\net5.0\IEnumerable.AssemblyInfoInputs.cache
+C:\Development\Udemy\C-Udemy\Section 9\IEnumerable\IEnumerable\obj\Debug\net5.0\IEnumerable.AssemblyInfo.cs
+C:\Development\Udemy\C-Udemy\Section 9\IEnumerable\IEnumerable\obj\Debug\net5.0\IEnumerable.csproj.CoreCompileInputs.cache
+C:\Development\Udemy\C-Udemy\Section 9\IEnumerable\IEnumerable\obj\Debug\net5.0\IEnumerable.dll
+C:\Development\Udemy\C-Udemy\Section 9\IEnumerable\IEnumerable\obj\Debug\net5.0\ref\IEnumerable.dll
+C:\Development\Udemy\C-Udemy\Section 9\IEnumerable\IEnumerable\obj\Debug\net5.0\IEnumerable.pdb
+C:\Development\Udemy\C-Udemy\Section 9\IEnumerable\IEnumerable\obj\Debug\net5.0\IEnumerable.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Development\Udemy\C-Udemy\Section 11\RegularExpression\RegularExpression\obj\Debug\net5.0\RegularExpression.csproj.AssemblyReference.cache
+C:\Development\Udemy\C-Udemy\Section 11\RegularExpression\RegularExpression\obj\Debug\net5.0\RegularExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Udemy\C-Udemy\Section 11\RegularExpression\RegularExpression\obj\Debug\net5.0\RegularExpression.AssemblyInfoInputs.cache
+C:\Development\Udemy\C-Udemy\Section 11\RegularExpression\RegularExpression\obj\Debug\net5.0\RegularExpression.AssemblyInfo.cs
+C:\Development\Udemy\C-Udemy\Section 11\RegularExpression\RegularExpression\obj\Debug\net5.0\RegularExpression.csproj.CoreCompileInputs.cache
+C:\Development\Udemy\C-Udemy\Section 11\RegularExpression\RegularExpression\bin\Debug\net5.0\RegularExpression.exe
+C:\Development\Udemy\C-Udemy\Section 11\RegularExpression\RegularExpression\bin\Debug\net5.0\RegularExpression.deps.json
+C:\Development\Udemy\C-Udemy\Section 11\RegularExpression\RegularExpression\bin\Debug\net5.0\RegularExpression.runtimeconfig.json
+C:\Development\Udemy\C-Udemy\Section 11\RegularExpression\RegularExpression\bin\Debug\net5.0\RegularExpression.runtimeconfig.dev.json
+C:\Development\Udemy\C-Udemy\Section 11\RegularExpression\RegularExpression\bin\Debug\net5.0\RegularExpression.dll
+C:\Development\Udemy\C-Udemy\Section 11\RegularExpression\RegularExpression\bin\Debug\net5.0\ref\RegularExpression.dll
+C:\Development\Udemy\C-Udemy\Section 11\RegularExpression\RegularExpression\bin\Debug\net5.0\RegularExpression.pdb
+C:\Development\Udemy\C-Udemy\Section 11\RegularExpression\RegularExpression\obj\Debug\net5.0\RegularExpression.dll
+C:\Development\Udemy\C-Udemy\Section 11\RegularExpression\RegularExpression\obj\Debug\net5.0\ref\RegularExpression.dll
+C:\Development\Udemy\C-Udemy\Section 11\RegularExpression\RegularExpression\obj\Debug\net5.0\RegularExpression.pdb
+C:\Development\Udemy\C-Udemy\Section 11\RegularExpression\RegularExpression\obj\Debug\net5.0\RegularExpression.genruntimeconfig.cache

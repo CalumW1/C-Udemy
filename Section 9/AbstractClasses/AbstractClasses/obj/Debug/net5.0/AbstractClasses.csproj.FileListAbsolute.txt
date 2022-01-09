@@ -1,0 +1,16 @@
+C:\Development\Udemy\C-Udemy\Section 9\AbstractClasses\AbstractClasses\bin\Debug\net5.0\AbstractClasses.exe
+C:\Development\Udemy\C-Udemy\Section 9\AbstractClasses\AbstractClasses\bin\Debug\net5.0\AbstractClasses.deps.json
+C:\Development\Udemy\C-Udemy\Section 9\AbstractClasses\AbstractClasses\bin\Debug\net5.0\AbstractClasses.runtimeconfig.json
+C:\Development\Udemy\C-Udemy\Section 9\AbstractClasses\AbstractClasses\bin\Debug\net5.0\AbstractClasses.runtimeconfig.dev.json
+C:\Development\Udemy\C-Udemy\Section 9\AbstractClasses\AbstractClasses\bin\Debug\net5.0\AbstractClasses.dll
+C:\Development\Udemy\C-Udemy\Section 9\AbstractClasses\AbstractClasses\bin\Debug\net5.0\ref\AbstractClasses.dll
+C:\Development\Udemy\C-Udemy\Section 9\AbstractClasses\AbstractClasses\bin\Debug\net5.0\AbstractClasses.pdb
+C:\Development\Udemy\C-Udemy\Section 9\AbstractClasses\AbstractClasses\obj\Debug\net5.0\AbstractClasses.csproj.AssemblyReference.cache
+C:\Development\Udemy\C-Udemy\Section 9\AbstractClasses\AbstractClasses\obj\Debug\net5.0\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Udemy\C-Udemy\Section 9\AbstractClasses\AbstractClasses\obj\Debug\net5.0\AbstractClasses.AssemblyInfoInputs.cache
+C:\Development\Udemy\C-Udemy\Section 9\AbstractClasses\AbstractClasses\obj\Debug\net5.0\AbstractClasses.AssemblyInfo.cs
+C:\Development\Udemy\C-Udemy\Section 9\AbstractClasses\AbstractClasses\obj\Debug\net5.0\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Development\Udemy\C-Udemy\Section 9\AbstractClasses\AbstractClasses\obj\Debug\net5.0\AbstractClasses.dll
+C:\Development\Udemy\C-Udemy\Section 9\AbstractClasses\AbstractClasses\obj\Debug\net5.0\ref\AbstractClasses.dll
+C:\Development\Udemy\C-Udemy\Section 9\AbstractClasses\AbstractClasses\obj\Debug\net5.0\AbstractClasses.pdb
+C:\Development\Udemy\C-Udemy\Section 9\AbstractClasses\AbstractClasses\obj\Debug\net5.0\AbstractClasses.genruntimeconfig.cache

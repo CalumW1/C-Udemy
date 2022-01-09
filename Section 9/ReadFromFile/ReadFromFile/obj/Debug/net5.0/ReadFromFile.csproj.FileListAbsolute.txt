@@ -1,0 +1,15 @@
+C:\Development\Udemy\C-Udemy\Section 9\ReadFromFile\ReadFromFile\bin\Debug\net5.0\ReadFromFile.exe
+C:\Development\Udemy\C-Udemy\Section 9\ReadFromFile\ReadFromFile\bin\Debug\net5.0\ReadFromFile.deps.json
+C:\Development\Udemy\C-Udemy\Section 9\ReadFromFile\ReadFromFile\bin\Debug\net5.0\ReadFromFile.runtimeconfig.json
+C:\Development\Udemy\C-Udemy\Section 9\ReadFromFile\ReadFromFile\bin\Debug\net5.0\ReadFromFile.runtimeconfig.dev.json
+C:\Development\Udemy\C-Udemy\Section 9\ReadFromFile\ReadFromFile\bin\Debug\net5.0\ReadFromFile.dll
+C:\Development\Udemy\C-Udemy\Section 9\ReadFromFile\ReadFromFile\bin\Debug\net5.0\ref\ReadFromFile.dll
+C:\Development\Udemy\C-Udemy\Section 9\ReadFromFile\ReadFromFile\bin\Debug\net5.0\ReadFromFile.pdb
+C:\Development\Udemy\C-Udemy\Section 9\ReadFromFile\ReadFromFile\obj\Debug\net5.0\ReadFromFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Udemy\C-Udemy\Section 9\ReadFromFile\ReadFromFile\obj\Debug\net5.0\ReadFromFile.AssemblyInfoInputs.cache
+C:\Development\Udemy\C-Udemy\Section 9\ReadFromFile\ReadFromFile\obj\Debug\net5.0\ReadFromFile.AssemblyInfo.cs
+C:\Development\Udemy\C-Udemy\Section 9\ReadFromFile\ReadFromFile\obj\Debug\net5.0\ReadFromFile.csproj.CoreCompileInputs.cache
+C:\Development\Udemy\C-Udemy\Section 9\ReadFromFile\ReadFromFile\obj\Debug\net5.0\ReadFromFile.dll
+C:\Development\Udemy\C-Udemy\Section 9\ReadFromFile\ReadFromFile\obj\Debug\net5.0\ref\ReadFromFile.dll
+C:\Development\Udemy\C-Udemy\Section 9\ReadFromFile\ReadFromFile\obj\Debug\net5.0\ReadFromFile.pdb
+C:\Development\Udemy\C-Udemy\Section 9\ReadFromFile\ReadFromFile\obj\Debug\net5.0\ReadFromFile.genruntimeconfig.cache
