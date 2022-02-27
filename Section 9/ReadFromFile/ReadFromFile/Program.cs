@@ -28,6 +28,7 @@ namespace ReadFromFile
 
             /*File.WriteAllLines(@"C:\\Users\\Calum.Wilson\\OneDrive - Independent Solutions\\Desktop\\ReadAndWrite\\test2.txt", lines);
 
+            // test upload
 
             // ask for a file name;
             Console.WriteLine("Filename: ");
